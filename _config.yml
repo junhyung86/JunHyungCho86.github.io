@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "인공지능으로 미래를 바라보다"
+title                    : "일상의 순간을 새롭게 바라보다"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "조준형(JunHyung Cho)"
