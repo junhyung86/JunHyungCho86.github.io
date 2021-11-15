@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "조준형"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/asdlab.png"
   bio              : "행복한 인공지능 연구가"
   location         : "대한민국, 판교"
   email            : "junhyung@asdlab.info"
